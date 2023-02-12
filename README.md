@@ -3,7 +3,7 @@ License and Privacy Policy for Nichathan Gaming's RNG app.
 
 ## Privacy Policy
 
-I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information. All data created by you (the user) is stored on your device only, and can be erased by clearing the application's data or by unistalling the application.
+I hereby state, to the best of my knowledge and belief, that this program only collects data from [Unity advertisements](https://docs.unity.com/ads/manual/GoogleDataSafety?fbclid=IwAR1vBVISRG3QhdrSSQ9ndmiK4hwV9xCBW-ffh2Lrn03Pm56qSxVHFihCPL0). This app only collects data during advertisements and the data is only collected inside of the advertisement. The app itself does not collect any data and if ads are turned off then to the best of my knowledge, there will be no more data collection.
 
 ## License
 Nichathan Gaming Software License - Version 1.0 - February 3rd, 2023
